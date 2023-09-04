@@ -1,3 +1,6 @@
 Created Play button
 Created Exit button
 Created Credits button
+
+Created Music
+Created Background 
